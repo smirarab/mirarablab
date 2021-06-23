@@ -1,1 +1,1 @@
-The repository includes [Wiki pages](../../wiki) for our lab, describing useful tools, documents, computational platforms, etc.
+This has now moved here: https://github.com/mirarablab/wiki/wiki
